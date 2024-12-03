@@ -1,2 +1,2 @@
 # ORANGE
-Orange managment
+Just an approach to Orange managment
